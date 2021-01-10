@@ -1,3 +1,3 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+**GOOD MORNING**
+This is my first github website 
+What do you think?
